@@ -1,5 +1,5 @@
 # Stateful Hash-Based Signature Scheme 
-**Project / Paper:** _Stateful Hash-Based Signature Scheme for Long-Term Document Storage_  
+**Paper:** _Stateful Hash-Based Signature Scheme for Long-Term Document Storage_  
 **Authors:** Vidhi Bhutia, Shayaree Lodh
 
 ## Overview
