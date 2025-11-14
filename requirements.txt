@@ -1,0 +1,6 @@
+streamlit
+cryptography
+pysimplegui  
+pyhsslms
+pylms
+pyspx
